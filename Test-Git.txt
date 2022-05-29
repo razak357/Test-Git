@@ -7,4 +7,5 @@ gundam6
 gundam7
 gundam8
 gundam9
-gundang10
+gundam10
+gundam11
